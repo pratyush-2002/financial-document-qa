@@ -1,0 +1,9 @@
+streamlit
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+chromadb
+pymupdf
+pandas
+sentence-transformers
+ollama
