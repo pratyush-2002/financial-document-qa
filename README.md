@@ -1,4 +1,4 @@
-# 💰 Financial Document Q&A Assistant
+# Financial Document Q&A Assistant
 
 A simple Streamlit app that lets you upload **financial documents** (PDF or Excel) and ask **natural-language questions** about revenue, expenses, profits, and other metrics.  
 Built with **LangChain**, **Chroma**, and **Ollama** for local LLM inference.
